@@ -15,6 +15,6 @@ export default () => (
         Jittiphat Somsai
       </Link>
     </p>
-    <p>Boonwattana School</p>
+    <p>Next.JS v14 | Website v0.1.0</p>
   </footer>
 );

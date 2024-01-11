@@ -6,8 +6,8 @@ export default function Home() {
       >
         <img
           className="absolute top-0 left-0 w-full h-full object-cover bg-aura-animate"
-          src="/bg-dark-blue-aura.png"
-          alt="bg-dark-blue-aura"
+          src="/bg-red.jpg"
+          alt="bg-red"
         />
         <img
           className="absolute top-0 left-0 w-full h-full object-cover object-left bg-photo"

@@ -19,20 +19,20 @@ export default () => {
       href: "/",
     },
     {
-      label: "เกี่ยวกับเรา",
+      label: "เกี่ยวกับ",
       href: "/about",
     },
     {
-      label: "โครงการ",
-      href: "/projects",
+      label: "รายชื่อ",
+      href: "https://docs.google.com/spreadsheets/d/1LjwYtoNO2XaEvUdLMCNtQ52tQihZtaic/edit#gid=378061273",
     },
     {
-      label: "ติดต่อเรา",
+      label: "ติดต่อ Developer",
       href: "/contact",
     },
     {
-      label: "แฟ้มสะสมผลงาน",
-      href: "/portfolio",
+      label: "IG ของห้อง",
+      href: "https://www.instagram.com/bwn_samtub10/",
     },
     {
       label: "GitHub ผู้ทำเว็บ",
@@ -49,7 +49,7 @@ export default () => {
       <NavbarContent justify="center">
         <NavbarBrand>
           <NextLink href="/" className="font-bold text-slate-800 text-inherit uppercase dark:text-white">
-            จิรายุ
+            3/10 Room Website
           </NextLink>
         </NavbarBrand>
       </NavbarContent>

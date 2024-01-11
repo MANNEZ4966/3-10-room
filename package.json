@@ -1,5 +1,5 @@
 {
-  "name": "jirayu.pw",
+  "name": "3-10-room",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -20,7 +20,7 @@
     "clsx": "latest",
     "framer-motion": "latest",
     "luxon": "latest",
-    "next": "^13.5.6",
+    "next": "latest",
     "next-themes": "latest",
     "react": "latest",
     "react-dom": "latest",

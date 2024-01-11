@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        aura: "url(/bg-dark-blue-aura.png)",
+        aura: "url(/bg-red.jpg)",
       },
     },
   },
