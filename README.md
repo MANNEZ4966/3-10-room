@@ -2,7 +2,8 @@
 ------------------------------------------
 # Installation
 - Node 18.17+
-- ```npm run build``` - build your project
+- ```npm install``` - Install ```node_modules``` folder
+- ```npm run build``` - Build your Project
 - ```npm run dev``` - Run your Project
 ------------------------------------------
 # Host
