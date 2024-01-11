@@ -38,6 +38,10 @@ export default () => {
       label: "GitHub ผู้ทำเว็บ",
       href: "https://github.com/MANNEZ4966",
     },
+    {
+      label: "Source Code",
+      href: "https://github.com/MANNEZ4966/3-10-room",
+    },
   ];
 
   return (
