@@ -9,3 +9,6 @@
 # Host
 - Free [Vercel.com](https://vercel.com/)
 - Maki Service Shop | บริการเช่า Cloud VPS หรือ Host website , Bot Discord ราคาถูก [Discord](https://discord.gg/zdu45arpgY)
+------------------------------------------
+# Original Code
+- Jirayu.pw [GitHub](https://github.com/JirayuSrisawat-Github/jirayu.pw)
