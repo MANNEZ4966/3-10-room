@@ -17,6 +17,6 @@ export const metadata: Metadata = {
     siteName: "336room.mannez.site",
     locale: "en_US",
     type: "website",
-    images: ["/background.png"],
+    images: ["/background-xp.jpg"],
   },
 };
