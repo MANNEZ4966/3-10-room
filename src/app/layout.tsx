@@ -1,7 +1,7 @@
 import "@/styles/tailwind.css";
 import "@/styles/animation.css";
 import "aos/dist/aos.css";
-import { anuphan } from "@/lib/fonts";
+import { prompt } from "@/lib/fonts";
 import Providers from "@/components/providers";
 import Navbar from "@/components/Navbar";
 
@@ -10,7 +10,7 @@ export { metadata } from "@/lib/metadata";
 export default ({ children }: Props) => (
   <html className="!scroll-smooth" lang="en">
     <body
-      style={anuphan.style}
+      style={prompt.style}
       className="min-h-screen w-full bg-aura bg-cover bg-no-repeat text-white"
     >
       <Providers>

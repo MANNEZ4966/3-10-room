@@ -11,13 +11,13 @@ export default function Home() {
         />
         <img
           className="absolute top-0 left-0 w-full h-full object-cover object-left bg-photo"
-          src="/background.png"
+          src="/background-xp.jpg"
           alt="Background"
         />
 
         <div className="relative h-full flex justify-center items-center">
           <div className="text-center">
-            <h1 className="text-8xl text-white sm:text-9xl font-bold main-text-animate drop-shadow-md mb-8">
+            <h1 className="text-8xl text-white sm:text-6xl font-bold main-text-animate drop-shadow-md mb-8">
               Welcome To 3/10 Room Website!
             </h1>
             <p className="text-2xl text-white font-thin description-text-animate">

@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description: "เว็บไซต์ของห้อง 3/10",
   icons: [
     {
-      url: "/profile.png",
-      href: "/profile.png",
+      url: "/3-10-room.jpg",
+      href: "/3-10-room.jpg",
     },
   ],
   openGraph: {
